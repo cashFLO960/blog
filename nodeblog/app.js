@@ -11,7 +11,7 @@ var db = require('monk')('localhost/nodeblog');
 var multer = require('multer');
 var flash = require('connect-flash');
 
-
+//adding in comments for GIT TEST
 
 
 var app = express();
